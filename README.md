@@ -1,5 +1,6 @@
 # optimal-portfolio-allocation
 this code is used to find optimal weights of our  assets in our portfolio using Markowitz mean-variance optimization
+
 the main purpose of the code is to reduce the risk(volatility of portfolio) of the user by showing best weights for lowest risk at a particular return
 ## what i have learnt from WiDS
 ### week-1
